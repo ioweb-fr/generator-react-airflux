@@ -1,0 +1,15 @@
+{
+  "name": "generator-react-airflux",
+  "version": "0.0.1",
+  "description": "a generator for react + airflux + simod frontend stack",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.17.7"
+  }
+}

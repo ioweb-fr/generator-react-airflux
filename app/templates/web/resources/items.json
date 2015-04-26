@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "name" : "Sample item #1"
+    },
+    {
+        "id": 2,
+        "name" : "Sample item #2"
+    },
+    {
+        "id": 3,
+        "name" : "Important sample item #3",
+        "backgroundColor" : "#993333"
+    }
+]
