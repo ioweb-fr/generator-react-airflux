@@ -9,6 +9,14 @@ class <%= pascalName %>Component extends Airflux.FluxComponent {
         super(props);
     }
 
+    componentDidMount() {
+        super.componentDidMount();
+    }
+
+    componentWillUnmount() {
+        super.componentWillUnmount();
+    }
+
     render() {
         return (
             <span className="<%= paramName %>">
