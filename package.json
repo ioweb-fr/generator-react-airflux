@@ -2,6 +2,16 @@
   "name": "generator-react-airflux",
   "version": "0.0.1",
   "description": "a generator for react + airflux + simod frontend stack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ioweb-fr/generator-react-airflux.git"
+  },
+  "author": "Ioweb <contact@ioweb.fr>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/ioweb-fr/generator-react-airflux/issues"
+  },
+  "homepage": "https://github.com/ioweb-fr/generator-react-airflux",
   "files": [
     "app",
     "router"
