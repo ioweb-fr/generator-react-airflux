@@ -10,6 +10,7 @@
     "yeoman-generator"
   ],
   "dependencies": {
+    "change-case": "^2.3.0",
     "yeoman-generator": "^0.17.7"
   }
 }
