@@ -14,6 +14,7 @@ enables code hot swapping.
 ### Creating a new project
 
 ```$> yo react-airflux```
+
 ```%> gulp```
 
 ### Creating a view in an existing project
