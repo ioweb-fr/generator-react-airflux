@@ -26,7 +26,7 @@ class <%= pascalName %>Component extends Airflux.FluxComponent {
 
 }
 
-<%= pascalName %>.propTypes = {
+<%= pascalName %>Component.propTypes = {
     /** EDIT ME **/
 };
 
